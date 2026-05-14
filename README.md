@@ -59,6 +59,12 @@ G. Real-World Application
 
 18. How can this system be integrated into a mobile/web app?
     - The trained models have been saved as .keras and .h5 files. These files can be loaded into a TensorFlow.js or TensorFlow Lite environment for real-time identification via a smartphone camera.
+   
+    <img width="1265" height="116" alt="image" src="https://github.com/user-attachments/assets/0e036c8f-c7ef-429d-841a-c58fb639e8cb" />
+
+    <img width="1265" height="137" alt="image" src="https://github.com/user-attachments/assets/3b21caf5-898b-4cb9-9dde-c8678e7cdfb8" />
+
+
 
     <img width="1717" height="481" alt="image" src="https://github.com/user-attachments/assets/36401f3a-e22d-41e4-8043-bf03946cd72a" />
     <img width="1681" height="557" alt="image" src="https://github.com/user-attachments/assets/4250c770-7d77-4bcf-aaa7-2ab896069d86" />
